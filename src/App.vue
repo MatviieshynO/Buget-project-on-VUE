@@ -14,6 +14,12 @@ export default {
         comment: 'Some coment',
         id: 1,
       },
+      2: {
+        type: 'OUTCOME',
+        value: -50,
+        comment: 'Some coment',
+        id: 2,
+      },
     },
   }),
 };
